@@ -1,11 +1,11 @@
-# Implement-Augmentation-Pytorch
+# Awesome-Augmentation-Papers
 
-- [ ] : CutOut - https://arxiv.org/abs/1708.04552
+- [x] : CutOut - https://arxiv.org/abs/1708.04552
 
-- [ ] : MixUp - https://arxiv.org/abs/1710.09412
+- [x] : MixUp - https://arxiv.org/abs/1710.09412
 
-- [ ] : ManiFold MixUp - https://arxiv.org/abs/1806.05236
+- [x] : ManiFold MixUp - https://arxiv.org/abs/1806.05236
 
-- [ ] : CutMix - https://arxiv.org/abs/1905.04899
+- [x] : CutMix - https://arxiv.org/abs/1905.04899
 
-- [ ] : AugMix - https://arxiv.org/abs/1912.02781
+- [x] : AugMix - https://arxiv.org/abs/1912.02781
